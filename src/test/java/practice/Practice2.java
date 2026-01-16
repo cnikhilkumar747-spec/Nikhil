@@ -2,12 +2,13 @@ package practice;
 
 import org.testng.annotations.Test;
 
-public class P1 {
+public class Practice2 {
 	@Test
-	public void m1()
+	public void m2 ()
 	{
 		System.out.println("Hi Github");
-		System.out.println("Hello");
+		S
+	}
+	
 		
 	}
-}
